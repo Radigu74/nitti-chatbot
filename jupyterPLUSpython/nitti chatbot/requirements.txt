@@ -38,7 +38,6 @@ frozenlist==1.5.0
 fsspec==2025.2.0
 geographiclib==2.0
 geopy==2.4.1
-gradio==5.18.0
 gradio_client==1.7.2
 h11==0.14.0
 httpcore==1.0.7
@@ -84,14 +83,15 @@ nest-asyncio==1.6.0
 notebook==7.3.2
 notebook_shim==0.2.4
 numpy==2.2.3
-openai==0.28.0
+openai==0.27.0
+panel==1.6.1
+gradio==5.18.0
 openpyxl==3.1.5
 orjson==3.10.15
 overrides==7.7.0
 packaging==24.2
 pandas==2.2.3
 pandocfilters==1.5.1
-panel==1.6.1
 param==2.2.0
 parso==0.8.4
 pillow==11.1.0
