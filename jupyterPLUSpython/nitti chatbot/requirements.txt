@@ -154,3 +154,5 @@ websockets==15.0
 widgetsnbextension==4.0.13
 xyzservices==2025.1.0
 yarl==1.18.3
+panel==1.2.3  # Force install this
+gradio==3.50.2  # Force install the older version
